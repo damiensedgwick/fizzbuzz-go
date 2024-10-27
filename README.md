@@ -5,7 +5,7 @@ the program takes to run in total.
 
 1st run - Time taken: 6.648169s
 
-2nd run Time taken: 6.792010s
+2nd run - Time taken: 6.792010s
 
 3rd run - Time taken: 6.638425s
 
